@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>paises_regiones_con_mas_eventos.kml</name>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Sao Paulo</region>
+			<Point>
+				<coordinates>-46.63611,-23.5475</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Minas Gerais</region>
+			<Point>
+				<coordinates>-43.790844,-17.930178</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Rio de Janeiro</region>
+			<Point>
+				<coordinates>-43.2075,-22.90278</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Bahia</region>
+			<Point>
+				<coordinates>-38.51083,-12.97111</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Pernambuco</region>
+			<Point>
+				<coordinates>-34.88111,-8.05389</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Ceara</region>
+			<Point>
+				<coordinates>-38.607983,-3.764103</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Parana</region>
+			<Point>
+				<coordinates>-51.33333,-24.5</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Rio Grande do Sul</region>
+			<Point>
+				<coordinates>-53.5,-30.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Federal District</region>
+			<Point>
+				<coordinates>-47.75,-15.75</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Goias</region>
+			<Point>
+				<coordinates>-50.24132,-15.80277</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Santa Catarina</region>
+			<Point>
+				<coordinates>-50.0,-27.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Para</region>
+			<Point>
+				<coordinates>-53.0,-4.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Maranhao</region>
+			<Point>
+				<coordinates>-45.0,-5.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Espirito Santo</region>
+			<Point>
+				<coordinates>-40.75,-20.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Paraíba</region>
+			<Point>
+				<coordinates>-36.5,-7.25</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Piaui</region>
+			<Point>
+				<coordinates>-42.33333,-7.25</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Alagoas</region>
+			<Point>
+				<coordinates>-36.41667,-9.58333</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Mato Grosso do Sul</region>
+			<Point>
+				<coordinates>-55.0,-20.5</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Amazonas</region>
+			<Point>
+				<coordinates>-64.5,-3.75</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Tocantins</region>
+			<Point>
+				<coordinates>-48.0,-10.5</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Mato Grosso</region>
+			<Point>
+				<coordinates>-56.0,-13.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Sergipe</region>
+			<Point>
+				<coordinates>-37.33333,-10.5</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Rondonia</region>
+			<Point>
+				<coordinates>-63.0,-11.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>California</region>
+			<Point>
+				<coordinates>-119.75126,37.25022</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Amapa</region>
+			<Point>
+				<coordinates>-52.0,1.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>New York</region>
+			<Point>
+				<coordinates>-74.00597,40.71427</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Acre</region>
+			<Point>
+				<coordinates>-70.0,-9.0</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Argentina</name>
+			<region>Buenos Aires F.D.</region>
+			<Point>
+				<coordinates>-58.45,-34.6</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
+			<region>Roraima</region>
+			<Point>
+				<coordinates>-61.25,2.25</coordinates>
+			</Point>
+		</Placemark>
+
+	</Document>
+</kml>
