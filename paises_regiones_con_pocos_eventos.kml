@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+	<Document>
+		<name>paises_regiones_con_pocos_eventos.kml</name>
+
+		<Placemark>
+			<name>Argentina</name>
+			<region>Cordoba</region>
+			<Point>
+				<coordinates>-64.18105,-31.4135</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Germany</name>
+			<region>Hesse</region>
+			<Point>
+				<coordinates>9.0,50.55</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>India</name>
+			<region>Maharashtra</region>
+			<Point>
+				<coordinates>76.0,19.5</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Paraguay</name>
+			<region>Asuncion</region>
+			<Point>
+				<coordinates>-57.63591,-25.30066</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Portugal</name>
+			<region>Porto</region>
+			<Point>
+				<coordinates>-8.61099,41.14961</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Nevada</region>
+			<Point>
+				<coordinates>-116.75119,39.25021</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Missouri</region>
+			<Point>
+				<coordinates>-92.50046,38.25031</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>France</name>
+			<region>Lorraine</region>
+			<Point>
+				<coordinates>29.9833334,36.2833333</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Italy</name>
+			<region>Province of Arezzo</region>
+			<Point>
+				<coordinates>11.83333,43.53333</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Switzerland</name>
+			<region>Basel-City</region>
+			<Point>
+				<coordinates>7.6184677,47.5438216</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Pennsylvania</region>
+			<Point>
+				<coordinates>-76.90567,40.27245</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Minnesota</region>
+			<Point>
+				<coordinates>-94.25055,46.25024</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Florida</region>
+			<Point>
+				<coordinates>-82.5001,28.75054</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United Kingdom</name>
+			<region>Wrexham</region>
+			<Point>
+				<coordinates>-2.99132,53.04664</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United Kingdom</name>
+			<region>England</region>
+			<Point>
+				<coordinates>-0.70312,52.16045</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Argentina</name>
+			<region>Buenos Aires</region>
+			<Point>
+				<coordinates>-58.4370759,-34.6075615</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Romania</name>
+			<region>Vaslui</region>
+			<Point>
+				<coordinates>27.73333,46.63333</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Dominican Republic</name>
+			<region>Nacional</region>
+			<Point>
+				<coordinates>-69.98857,18.50012</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Canada</name>
+			<region>British Columbia</region>
+			<Point>
+				<coordinates>-125.0032,53.99983</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Washington</region>
+			<Point>
+				<coordinates>-77.03637,38.89511</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Mozambique</name>
+			<region>Cidade de Maputo</region>
+			<Point>
+				<coordinates>32.58917,-25.96528</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Poland</name>
+			<region>Łódź Voivodeship</region>
+			<Point>
+				<coordinates>19.4569911,51.7687323</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Netherlands</name>
+			<region>North Holland</region>
+			<Point>
+				<coordinates>4.91667,52.58333</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Illinois</region>
+			<Point>
+				<coordinates>-89.25037,40.00032</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Canada</name>
+			<region>Ontario</region>
+			<Point>
+				<coordinates>-84.49983,49.25014</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Colorado</region>
+			<Point>
+				<coordinates>-105.50083,39.00027</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Connecticut</region>
+			<Point>
+				<coordinates>-72.66648,41.66704</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Japan</name>
+			<region>Aichi</region>
+			<Point>
+				<coordinates>136.90656,35.18017</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Tennessee</region>
+			<Point>
+				<coordinates>-90.8393,40.41199</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Canada</name>
+			<region>Quebec</region>
+			<Point>
+				<coordinates>-71.99907,52.00017</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Texas</region>
+			<Point>
+				<coordinates>-99.25061,31.25044</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>New Jersey</region>
+			<Point>
+				<coordinates>-74.49987,40.16706</coordinates>
+			</Point>
+		</Placemark>
+
+	</Document>
+</kml>

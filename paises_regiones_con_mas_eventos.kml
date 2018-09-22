@@ -117,6 +117,14 @@
 
 		<Placemark>
 			<name>Brazil</name>
+			<region>Rio Grande do Norte</region>
+			<Point>
+				<coordinates>-36.5,-5.75</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>Brazil</name>
 			<region>Paraíba</region>
 			<Point>
 				<coordinates>-36.5,-7.25</coordinates>
@@ -232,6 +240,14 @@
 			<region>Roraima</region>
 			<Point>
 				<coordinates>-61.25,2.25</coordinates>
+			</Point>
+		</Placemark>
+
+		<Placemark>
+			<name>United States</name>
+			<region>Michigan</region>
+			<Point>
+				<coordinates>-85.50033,44.25029</coordinates>
 			</Point>
 		</Placemark>
 
